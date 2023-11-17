@@ -1,0 +1,11 @@
+asset
+asset tracking
+tracking
+acquisition
+inventory
+tracker
+workstation
+decommission
+external
+destruction
+manual

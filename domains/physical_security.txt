@@ -1,0 +1,38 @@
+camera
+badge
+key
+key lock
+biometric
+clean desk
+safeguard
+facilities
+repair
+physical access
+data center
+data closet
+server room
+closet
+facility
+facility access
+physical safeguard
+environmental
+server rack
+fire suppression
+temperatute
+moisture
+smoke alarm
+generator
+power loss
+vendor access
+UPS
+power outage
+power
+emergency
+visitor log
+access log
+alarm code
+alarm
+tailgating
+clean desk
+locked
+lock

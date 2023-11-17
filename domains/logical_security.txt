@@ -1,0 +1,44 @@
+active directory
+password
+service account
+account management
+ad account
+length
+complexity
+access
+control
+access management
+network access control
+unique
+nac
+user
+registration
+privilege
+privilege management
+password management
+access right
+role
+job role
+user responsibilities
+acceptable user
+privileged account
+privileged
+mfa
+multifactor authentication
+multi-factor authentication
+two factor authentication
+security token
+role-based access
+role-based
+role based
+rbac
+least privilege
+separation of duties
+authenticate
+authentication
+audit
+user identifier
+disable
+access control
+zero-trust
+zero trust

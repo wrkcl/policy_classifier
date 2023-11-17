@@ -1,0 +1,33 @@
+programming
+coding
+agile
+waterfall
+system development
+acquisition
+code review
+code
+sdlc
+system development life cycle
+system
+architecture
+security architecture
+requirements gathering
+scrum
+developer
+programmer
+develop
+end user
+security planning
+secure coding
+computing
+git
+version control
+test
+production
+source
+unit test
+test plan
+api
+api key
+static analysis
+dynamic analysis

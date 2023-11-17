@@ -1,0 +1,63 @@
+av
+antivirus
+anti virus
+anti-virus
+antimalware
+anti-malware
+anti malware
+edr
+edp
+defender
+crowdstrike
+malicious software
+malicious
+scan
+vulnerability
+vulnerabilities
+vulnerability scan
+workstation
+desktop
+laptop
+server
+firewall
+xdr
+palo alto
+cisco
+soc
+threat intelligence
+threat
+feed
+dashboard
+ciso
+patch
+patching
+patch management
+patch cycle
+linux
+zero day
+patched
+test
+emergency patch
+emergency
+track
+tracking
+exception
+restore
+report
+internal
+external
+internal scan
+external scan
+web application
+tenable
+nessus
+qualys
+remediation
+penetration
+penetration test
+phishing
+risk assessment
+risk
+agent
+owasp
+invicti

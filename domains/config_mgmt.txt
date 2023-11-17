@@ -1,0 +1,29 @@
+config
+configuration
+configuration management
+config management
+sccm
+image
+template
+golden image
+baseline
+least functionality
+minimum necessary
+hardening
+security hardening
+best practice
+documentation
+baseline configuration
+deployment
+imaging
+rollback
+laptop
+workstation
+desktop
+server
+virtual machine
+vmware
+local admin
+laps
+linux
+scm

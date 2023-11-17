@@ -1,0 +1,59 @@
+sensitive
+sensitive information
+confidential information
+data classification
+classification
+classify
+classified
+confidential
+email
+api
+dlp
+data loss
+data loss prevention
+firewall
+proxy
+cloud storage
+encryption
+full disk encryption
+physical media
+thumb drive
+usb drive
+hard drive
+drive
+cloud
+usb
+bitlocker
+network diagram
+segmentation
+segregation
+network segmentation
+network segregation
+dmz
+wireless
+guest wireless
+integrity
+destruction
+storage
+cd
+cd rom
+tape
+discovery
+data discovery
+disposal
+dispose
+destroy
+certificate
+certificate of destruction
+sanitization
+encrypt
+data at rest
+data-at-rest
+data in transit
+data-in-transit
+public network
+public
+private
+san
+clear text
+plain text

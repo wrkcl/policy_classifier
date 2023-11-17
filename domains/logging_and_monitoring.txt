@@ -1,0 +1,40 @@
+siem
+soc
+syslog
+source
+agent
+review
+track
+capture
+server
+monitor
+monitoring
+log
+logs
+logging
+forward
+forwarding
+audit
+protenus
+privacy
+baseline
+security operations center
+24/7
+user activity
+activity
+third party
+test
+alert
+alerting
+reviewing
+security log
+detect
+detection
+correlate
+correlation
+analysis
+analyze
+analytics
+ioc
+indicator of compromise
+indicators of compromise
